@@ -2,43 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20a50ace-10ce-4704-a191-9d8ebb47aa9b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/367f1bb91b0cbfb4da71e821cb5ed16a/.filecache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/367f1bb91b0cbfb4da71e821cb5ed16a/App.framework/App" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/367f1bb91b0cbfb4da71e821cb5ed16a/app.dill" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/367f1bb91b0cbfb4da71e821cb5ed16a/debug_ios_bundle_flutter_assets.stamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/367f1bb91b0cbfb4da71e821cb5ed16a/debug_universal_framework.stamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/367f1bb91b0cbfb4da71e821cb5ed16a/flutter_assets.d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/367f1bb91b0cbfb4da71e821cb5ed16a/gen_localizations.stamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/367f1bb91b0cbfb4da71e821cb5ed16a/iphone_framework" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/367f1bb91b0cbfb4da71e821cb5ed16a/kernel_snapshot.d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/367f1bb91b0cbfb4da71e821cb5ed16a/kernel_snapshot.stamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/367f1bb91b0cbfb4da71e821cb5ed16a/outputs.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/367f1bb91b0cbfb4da71e821cb5ed16a/simulator_framework" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.dart_tool/package_config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.flutter-plugins" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.packages" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/fit_app3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/fit_app3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/kotlin/com/sumedhak/hello_world/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/kotlin/com/sumedhak/hello_world/MainActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/profile/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello_world/Shared/hello_worldApp.swift" beforeDir="false" afterPath="$PROJECT_DIR$/hello_world/Shared/hello_worldApp.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello_world/hello_world.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/hello_world/hello_world.xcodeproj/project.pbxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello_world/hello_world.xcodeproj/xcuserdata/ramakundurthi.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" afterPath="$PROJECT_DIR$/hello_world/hello_world.xcodeproj/xcuserdata/ramakundurthi.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Flutter/.last_build_id" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Flutter/.last_build_id" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Info.plist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/home_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/home_screen.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/profile_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/profile_screen.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/survey.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/survey.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/widget_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/test/widget_test.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_world/Shared/Assets.xcassets/AccentColor.colorset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/fit_app/Shared/Assets.xcassets/AccentColor.colorset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_world/Shared/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/fit_app/Shared/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_world/Shared/Assets.xcassets/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/fit_app/Shared/Assets.xcassets/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_world/Shared/ContentView.swift" beforeDir="false" afterPath="$PROJECT_DIR$/fit_app/Shared/ContentView.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_world/Shared/hello_worldApp.swift" beforeDir="false" afterPath="$PROJECT_DIR$/fit_app/Shared/hello_worldApp.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_world/Tests iOS/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/fit_app/Tests iOS/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_world/Tests iOS/Tests_iOS.swift" beforeDir="false" afterPath="$PROJECT_DIR$/fit_app/Tests iOS/Tests_iOS.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_world/Tests macOS/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/fit_app/Tests macOS/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_world/Tests macOS/Tests_macOS.swift" beforeDir="false" afterPath="$PROJECT_DIR$/fit_app/Tests macOS/Tests_macOS.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_world/hello_world.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/fit_app/fit_app.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_world/hello_world.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/fit_app/fit_app.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_world/hello_world.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" afterPath="$PROJECT_DIR$/fit_app/fit_app.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_world/hello_world.xcodeproj/project.xcworkspace/xcuserdata/ramakundurthi.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/fit_app/fit_app.xcodeproj/project.xcworkspace/xcuserdata/ramakundurthi.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_world/hello_world.xcodeproj/xcuserdata/ramakundurthi.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" afterPath="$PROJECT_DIR$/fit_app/fit_app.xcodeproj/xcuserdata/ramakundurthi.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_world/iOS/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/fit_app/iOS/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_world/macOS/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/fit_app/macOS/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_world/macOS/macOS.entitlements" beforeDir="false" afterPath="$PROJECT_DIR$/fit_app/macOS/macOS.entitlements" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -82,8 +62,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+            <state relative-caret-position="135">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -99,6 +79,7 @@
     </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/hello_world</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -139,13 +120,7 @@
             <path>
               <item name="fit_app" type="b2602c69:ProjectViewProjectNode" />
               <item name="fit_app" type="462c0819:PsiDirectoryNode" />
-              <item name="hello_world" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fit_app" type="b2602c69:ProjectViewProjectNode" />
               <item name="fit_app" type="462c0819:PsiDirectoryNode" />
-              <item name="hello_world" type="462c0819:PsiDirectoryNode" />
-              <item name="hello_world.xcodeproj" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="fit_app" type="b2602c69:ProjectViewProjectNode" />
@@ -197,6 +172,14 @@
       <option name="presentableId" value="Default" />
       <updated>1653540301159</updated>
     </task>
+    <task id="LOCAL-00001" summary="Next Commit">
+      <created>1653541455200</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1653541455200</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -227,6 +210,10 @@
       <window_info anchor="right" id="Flutter Performance" />
     </layout>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Next Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Next Commit" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/lib/main.dart">
       <provider selected="true" editor-type-id="text-editor">
@@ -250,8 +237,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
