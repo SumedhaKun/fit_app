@@ -9,8 +9,8 @@
 /* Begin PBXBuildFile section */
 		8B41958C2839342F007538B9 /* Tests_iOS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B41958B2839342F007538B9 /* Tests_iOS.swift */; };
 		8B4195972839342F007538B9 /* Tests_macOS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B4195962839342F007538B9 /* Tests_macOS.swift */; };
-		8B4195992839342F007538B9 /* hello_worldApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B4195702839342E007538B9 /* hello_worldApp.swift */; };
-		8B41959A2839342F007538B9 /* hello_worldApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B4195702839342E007538B9 /* hello_worldApp.swift */; };
+		8B4195992839342F007538B9 /* fit_appApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B4195702839342E007538B9 /* fit_appApp.swift */; };
+		8B41959A2839342F007538B9 /* fit_appApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B4195702839342E007538B9 /* fit_appApp.swift */; };
 		8B41959B2839342F007538B9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B4195712839342E007538B9 /* ContentView.swift */; };
 		8B41959C2839342F007538B9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B4195712839342E007538B9 /* ContentView.swift */; };
 		8B41959D2839342F007538B9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8B4195722839342F007538B9 /* Assets.xcassets */; };
@@ -23,24 +23,24 @@
 			containerPortal = 8B41956B2839342E007538B9 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 8B4195762839342F007538B9;
-			remoteInfo = "hello_world (iOS)";
+			remoteInfo = "fit_app (iOS)";
 		};
 		8B4195932839342F007538B9 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 8B41956B2839342E007538B9 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 8B41957E2839342F007538B9;
-			remoteInfo = "hello_world (macOS)";
+			remoteInfo = "fit_app (macOS)";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		8B4195702839342E007538B9 /* hello_worldApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hello_worldApp.swift; sourceTree = "<group>"; };
+		8B4195702839342E007538B9 /* fit_appApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = fit_appApp.swift; sourceTree = "<group>"; };
 		8B4195712839342E007538B9 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		8B4195722839342F007538B9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		8B4195772839342F007538B9 /* hello_world.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = hello_world.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		8B4195772839342F007538B9 /* fit_app.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = fit_app.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8B41957A2839342F007538B9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		8B41957F2839342F007538B9 /* hello_world.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = hello_world.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		8B41957F2839342F007538B9 /* fit_app.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = fit_app.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8B4195812839342F007538B9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8B4195822839342F007538B9 /* macOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = macOS.entitlements; sourceTree = "<group>"; };
 		8B4195872839342F007538B9 /* Tests iOS.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tests iOS.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -98,7 +98,7 @@
 		8B41956F2839342E007538B9 /* Shared */ = {
 			isa = PBXGroup;
 			children = (
-				8B4195702839342E007538B9 /* hello_worldApp.swift */,
+				8B4195702839342E007538B9 /* fit_appApp.swift */,
 				8B4195712839342E007538B9 /* ContentView.swift */,
 				8B4195722839342F007538B9 /* Assets.xcassets */,
 			);
@@ -108,8 +108,8 @@
 		8B4195782839342F007538B9 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				8B4195772839342F007538B9 /* hello_world.app */,
-				8B41957F2839342F007538B9 /* hello_world.app */,
+				8B4195772839342F007538B9 /* fit_app.app */,
+				8B41957F2839342F007538B9 /* fit_app.app */,
 				8B4195872839342F007538B9 /* Tests iOS.xctest */,
 				8B4195922839342F007538B9 /* Tests macOS.xctest */,
 			);
@@ -154,9 +154,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		8B4195762839342F007538B9 /* hello_world (iOS) */ = {
+		8B4195762839342F007538B9 /* fit_app (iOS) */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 8B4195A12839342F007538B9 /* Build configuration list for PBXNativeTarget "hello_world (iOS)" */;
+			buildConfigurationList = 8B4195A12839342F007538B9 /* Build configuration list for PBXNativeTarget "fit_app (iOS)" */;
 			buildPhases = (
 				8B4195732839342F007538B9 /* Sources */,
 				8B4195742839342F007538B9 /* Frameworks */,
@@ -166,14 +166,14 @@
 			);
 			dependencies = (
 			);
-			name = "hello_world (iOS)";
-			productName = "hello_world (iOS)";
-			productReference = 8B4195772839342F007538B9 /* hello_world.app */;
+			name = "fit_app (iOS)";
+			productName = "fit_app (iOS)";
+			productReference = 8B4195772839342F007538B9 /* fit_app.app */;
 			productType = "com.apple.product-type.application";
 		};
-		8B41957E2839342F007538B9 /* hello_world (macOS) */ = {
+		8B41957E2839342F007538B9 /* fit_app (macOS) */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 8B4195A42839342F007538B9 /* Build configuration list for PBXNativeTarget "hello_world (macOS)" */;
+			buildConfigurationList = 8B4195A42839342F007538B9 /* Build configuration list for PBXNativeTarget "fit_app (macOS)" */;
 			buildPhases = (
 				8B41957B2839342F007538B9 /* Sources */,
 				8B41957C2839342F007538B9 /* Frameworks */,
@@ -183,9 +183,9 @@
 			);
 			dependencies = (
 			);
-			name = "hello_world (macOS)";
-			productName = "hello_world (macOS)";
-			productReference = 8B41957F2839342F007538B9 /* hello_world.app */;
+			name = "fit_app (macOS)";
+			productName = "fit_app (macOS)";
+			productReference = 8B41957F2839342F007538B9 /* fit_app.app */;
 			productType = "com.apple.product-type.application";
 		};
 		8B4195862839342F007538B9 /* Tests iOS */ = {
@@ -249,7 +249,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 8B41956E2839342E007538B9 /* Build configuration list for PBXProject "hello_world" */;
+			buildConfigurationList = 8B41956E2839342E007538B9 /* Build configuration list for PBXProject "fit_app" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -262,8 +262,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				8B4195762839342F007538B9 /* hello_world (iOS) */,
-				8B41957E2839342F007538B9 /* hello_world (macOS) */,
+				8B4195762839342F007538B9 /* fit_app (iOS) */,
+				8B41957E2839342F007538B9 /* fit_app (macOS) */,
 				8B4195862839342F007538B9 /* Tests iOS */,
 				8B4195912839342F007538B9 /* Tests macOS */,
 			);
@@ -309,7 +309,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8B41959B2839342F007538B9 /* ContentView.swift in Sources */,
-				8B4195992839342F007538B9 /* hello_worldApp.swift in Sources */,
+				8B4195992839342F007538B9 /* fit_appApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -318,7 +318,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8B41959C2839342F007538B9 /* ContentView.swift in Sources */,
-				8B41959A2839342F007538B9 /* hello_worldApp.swift in Sources */,
+				8B41959A2839342F007538B9 /* fit_appApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -343,12 +343,12 @@
 /* Begin PBXTargetDependency section */
 		8B4195892839342F007538B9 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 8B4195762839342F007538B9 /* hello_world (iOS) */;
+			target = 8B4195762839342F007538B9 /* fit_app (iOS) */;
 			targetProxy = 8B4195882839342F007538B9 /* PBXContainerItemProxy */;
 		};
 		8B4195942839342F007538B9 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 8B41957E2839342F007538B9 /* hello_world (macOS) */;
+			target = 8B41957E2839342F007538B9 /* fit_app (macOS) */;
 			targetProxy = 8B4195932839342F007538B9 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -479,7 +479,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "he.hello-world";
-				PRODUCT_NAME = hello_world;
+				PRODUCT_NAME = fit_app;
 				SDKROOT = iphoneos;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -500,7 +500,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "he.hello-world";
-				PRODUCT_NAME = hello_world;
+				PRODUCT_NAME = fit_app;
 				SDKROOT = iphoneos;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -524,7 +524,7 @@
 				);
 				MACOSX_DEPLOYMENT_TARGET = 11.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "he.hello-world";
-				PRODUCT_NAME = hello_world;
+				PRODUCT_NAME = fit_app;
 				SDKROOT = macosx;
 				SWIFT_VERSION = 5.0;
 			};
@@ -546,7 +546,7 @@
 				);
 				MACOSX_DEPLOYMENT_TARGET = 11.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "he.hello-world";
-				PRODUCT_NAME = hello_world;
+				PRODUCT_NAME = fit_app;
 				SDKROOT = macosx;
 				SWIFT_VERSION = 5.0;
 			};
@@ -569,7 +569,7 @@
 				SDKROOT = iphoneos;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = "hello_world (iOS)";
+				TEST_TARGET_NAME = "fit_app (iOS)";
 			};
 			name = Debug;
 		};
@@ -590,7 +590,7 @@
 				SDKROOT = iphoneos;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = "hello_world (iOS)";
+				TEST_TARGET_NAME = "fit_app (iOS)";
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
@@ -612,7 +612,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = macosx;
 				SWIFT_VERSION = 5.0;
-				TEST_TARGET_NAME = "hello_world (macOS)";
+				TEST_TARGET_NAME = "fit_app (macOS)";
 			};
 			name = Debug;
 		};
@@ -633,14 +633,14 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = macosx;
 				SWIFT_VERSION = 5.0;
-				TEST_TARGET_NAME = "hello_world (macOS)";
+				TEST_TARGET_NAME = "fit_app (macOS)";
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		8B41956E2839342E007538B9 /* Build configuration list for PBXProject "hello_world" */ = {
+		8B41956E2839342E007538B9 /* Build configuration list for PBXProject "fit_app" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				8B41959F2839342F007538B9 /* Debug */,
@@ -649,7 +649,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		8B4195A12839342F007538B9 /* Build configuration list for PBXNativeTarget "hello_world (iOS)" */ = {
+		8B4195A12839342F007538B9 /* Build configuration list for PBXNativeTarget "fit_app (iOS)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				8B4195A22839342F007538B9 /* Debug */,
@@ -658,7 +658,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		8B4195A42839342F007538B9 /* Build configuration list for PBXNativeTarget "hello_world (macOS)" */ = {
+		8B4195A42839342F007538B9 /* Build configuration list for PBXNativeTarget "fit_app (macOS)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				8B4195A52839342F007538B9 /* Debug */,

@@ -1,4 +1,4 @@
-package com.sumedhak.hello_world
+package com.sumedhak.fit_app
 
 import io.flutter.embedding.android.FlutterActivity
 

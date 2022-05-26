@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:hello_world/home_screen.dart';
+import 'package:fit_app/home_screen.dart';
 import 'profile_screen.dart';
 
 class Survey extends StatefulWidget {

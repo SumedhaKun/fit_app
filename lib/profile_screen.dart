@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:hello_world/home_screen.dart';
-import 'package:hello_world/main.dart';
-import 'package:hello_world/signInPage.dart';
-import 'package:hello_world/survey.dart';
+import 'package:fit_app/home_screen.dart';
+import 'package:fit_app/main.dart';
+import 'package:fit_app/signInPage.dart';
+import 'package:fit_app/survey.dart';
 import 'survey.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'google_sign_in.dart';

@@ -1,8 +1,8 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:hello_world/profile_screen.dart';
-import 'package:hello_world/signInPage.dart';
-import 'package:hello_world/survey.dart';
+import 'package:fit_app/profile_screen.dart';
+import 'package:fit_app/signInPage.dart';
+import 'package:fit_app/survey.dart';
 
 class HomeScreen extends StatefulWidget {
 
